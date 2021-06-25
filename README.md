@@ -1,3 +1,21 @@
+# To start the fake JSON server
+`npm run server`
+
+# To start the server
+
+`yarn start`
+
+# Source code
+
+(https://github.com/bradtraversy/react-crash-2021)
+
+
+
+#####################
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
